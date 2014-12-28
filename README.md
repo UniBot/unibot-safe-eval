@@ -1,4 +1,2 @@
-unibot-safe-eval
-================
-
-Safe eval plugin for UniBot
+# unibot-safe-eval
+Safe eval plugin for UniBot.

@@ -1,0 +1,21 @@
+{
+  "name": "unibot-safe-eval",
+  "version": "1.0.0",
+  "description": "Safe eval plugin for UniBot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UniBot/unibot-safe-eval.git"
+  },
+  "author": "Tarmo Leppänen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UniBot/unibot-safe-eval/issues"
+  },
+  "dependencies": {
+    "sandbox": "~0.8.6"
+  }
+}
